@@ -1,38 +1,33 @@
 name,color
-UKC1,#9ACD32
-UKC2,#377DB8
-UKD1,#F5DEB3
-UKD2,#EE82EE
-UKD3,#40E0D0
-UKD4,#FF6347
-UKD5,#D8BFD8
-UKE1,#D2B48C
-UKE2,#4682B4
-UKE3,#00FF7F
-UKE4,#ff2739
-UKF1,#ffea00
-UKF2,#708090
-UKF3,#6A5ACD
-UKG1,#87CEEB
-UKG2,#A0522D
-UKG3,#FFF5EE
-UKH1,#2E8B57
-UKH2,#F4A460
-UKH3,#FA8072
-UKI1,#9ACD32
-UKI2,#377DB8
-UKJ1,#F5DEB3
-UKJ2,#EE82EE
-UKJ3,#40E0D0
-UKJ4,#FF6347
-UKK1,#D8BFD8
-UKK2,#D2B48C
-UKK3,#4682B4
-UKK4,#00FF7F
-UKL1,#ff2739
-UKL2,#ffea00
-UKM2,#708090
-UKM3,#6A5ACD
-UKM5,#87CEEB
-UKM6,#A0522D
-UKN0,#FFF5EE
+Aberdeen City,#9ACD32
+Aberdeenshire,#377DB8
+Angus,#F5DEB3
+Argyll & Bute,#EE82EE
+Scottish Borders,#40E0D0
+Clackmannanshire,#FF6347
+West Dunbartonshire,#D8BFD8
+Dumfries & Galloway,#D2B48C
+Dundee City,#4682B4
+East Ayrshire,#00FF7F
+East Dunbartonshire,#ff2739
+East Lothian,#ffea00
+East Renfrewshire,#708090
+Edinburgh City of,#6A5ACD
+Falkirk,#87CEEB
+Fife,#A0522D
+Glasgow City,#FFF5EE
+Highland,#2E8B57
+Inverclyde,#F4A460
+Midlothian,#FA8072
+Moray,#9ACD32
+North Ayrshire,#377DB8
+North Lanarkshire,#F5DEB3
+Orkney Islands,#EE82EE
+Perth & Kinross,#40E0D0
+Renfrewshire,#FF6347
+Shetland Islands,#D8BFD8
+South Ayrshire,#D2B48C
+South Lanarkshire,#4682B4
+Stirling,#00FF7F
+West Lothian,#ff2739
+Eilean Siar,#ffea00

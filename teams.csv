@@ -1,33 +1,35 @@
 name,color
-Aberdeen City,#9ACD32
-Aberdeenshire,#377DB8
-Angus,#F5DEB3
-Argyll and Bute,#EE82EE
-Scottish Borders,#40E0D0
-Clackmannanshire,#FF6347
-West Dunbartonshire,#D8BFD8
-Dumfries and Galloway,#D2B48C
-Dundee City,#4682B4
-East Ayrshire,#00FF7F
-East Dunbartonshire,#ff2739
-East Lothian,#ffea00
-East Renfrewshire,#708090
-Edinburgh City of,#6A5ACD
-Falkirk,#87CEEB
-Fife,#A0522D
-Glasgow City,#FFF5EE
-Highland,#2E8B57
-Inverclyde,#F4A460
-Midlothian,#FA8072
-Moray,#9ACD32
-North Ayrshire,#377DB8
-North Lanarkshire,#F5DEB3
-Orkney Islands,#EE82EE
-Perth and Kinross,#40E0D0
-Renfrewshire,#FF6347
-Shetland Islands,#D8BFD8
-South Ayrshire,#D2B48C
-South Lanarkshire,#4682B4
-Stirling,#00FF7F
-West Lothian,#ff2739
-Eilean Siar,#ffea00
+AUS,#9ACD32
+AUT,#377DB8
+BEL,#F5DEB3
+CAN,#EE82EE
+CHI,#40E0D0
+CZE,#FF6347
+DEN,#D8BFD8
+EST,#D2B48C
+FIN,#4682B4
+FRA,#00FF7F
+GER,#ff2739
+GRE,#ffea00
+HUN,#708090
+ISL,#6A5ACD
+IRL,#87CEEB
+ISR,#A0522D
+ITA,#FFF5EE
+JPN,#2E8B57
+KOR,#F4A460
+LUX,#FA8072
+MEX,#9ACD32
+NED,#377DB8
+NZL,#F5DEB3
+NOR,#EE82EE
+POL,#40E0D0
+POR,#FF6347
+SVK,#D8BFD8
+SLO,#D2B48C
+ESP,#4682B4
+SWE,#00FF7F
+SUI,#ff2739
+TUR,#ffea00
+GBR,#9ACD32
+USA,#377DB8

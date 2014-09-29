@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
-<title>Scottish Internal Migration 2001</title>
+<title>Education at a Glance 2014</title>
 <style>
 
 @import url(style.css);
@@ -29,12 +29,10 @@ display: none;
 <p> </p>
 </header>
  
-<h1>Scottish Internal Migration 2001 - District Level</h1>
+<h1>Education at a Glance 2014</h1>
 
-<p>Data: Census 2001 SMS </p>
-<p>Origin: Scottish interaction data districts 2001</p>
-<p>Destination: Scottish interaction data districts 2001</p>
-<p>Layer: Total migrants [Table MG101] </p>
+<p>Data: Education at a Glance: OECD 2014 </p>
+
 <p>Built with <a href="http://d3js.org/">d3.js</a>.</p>
  
 <script src="http://d3js.org/d3.v2.min.js?2.8.1"></script>
@@ -45,7 +43,7 @@ height = 720,
 outerRadius = Math.min(width, height) / 2 - 10,
 innerRadius = outerRadius - 24;
  
-var formatPercent = d3.format("d");
+var formatPercent = d3.format("d.dd%");
  
 var arc = d3.svg.arc()
 .innerRadius(innerRadius)
@@ -137,7 +135,7 @@ return p.source.index != i
  
  
 <footer>
-<p>Created by Dr Konstantinos Daras (c) 2014 - Source code available in <a href="https://github.com/gisdarcon/Scot_Dist_2001">GitHub</a></p> 
+<p>Created by Dr Konstantinos Daras (c) 2014 - Source code available in <a href="https://github.com/gisdarcon/world_circos">GitHub</a></p> 
 <p>Modified from Mike Bostock's <a href="http://bost.ocks.org/mike/uberdata/">Uber Rides by Neighborhood</a></p>
 
 </footer>

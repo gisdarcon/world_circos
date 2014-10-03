@@ -116,10 +116,10 @@ var chord = svg.selectAll(".chord")
  chord.append("title").text(function(d) {
  return cities[d.source.index].name
  + " → " + cities[d.target.index].name
- + ": " + formatPercent(d3.round(d.source.value, 2))
+ + ": " + formatPercent(d3.round(d.source.value, 2)) + "%"
  + "\n" + cities[d.target.index].name
  + " → " + cities[d.source.index].name
- + ": " + formatPercent(d3.round(d.target.value, 2));
+ + ": " + formatPercent(d3.round(d.target.value, 2)) + "%";
  });
  
 function mouseover(d, i) {
